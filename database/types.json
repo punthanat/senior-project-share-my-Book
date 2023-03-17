@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "626fd7412d9de27079a63359"
+  },
+  "typeName": "Fantasy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd74b2d9de27079a6335b"
+  },
+  "typeName": "Education",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7862d9de27079a6335d"
+  },
+  "typeName": "Novel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd78f2d9de27079a6335f"
+  },
+  "typeName": "Sci-fi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7a32d9de27079a63361"
+  },
+  "typeName": "Adventure",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7af2d9de27079a63363"
+  },
+  "typeName": "Light Novel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7bd2d9de27079a63365"
+  },
+  "typeName": "Love comedy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7c52d9de27079a63367"
+  },
+  "typeName": "Romantic",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7d32d9de27079a63369"
+  },
+  "typeName": "Comedy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fd7ea2d9de27079a6336b"
+  },
+  "typeName": "Self Improve",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62713eb3a5b65dc42059df6d"
+  },
+  "typeName": "Science",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62713eb7a5b65dc42059df6f"
+  },
+  "typeName": "Math",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62713f0ea5b65dc42059df71"
+  },
+  "typeName": "Kids",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6271fa0a18af26dd3f1fabcb"
+  },
+  "typeName": "Exam Preparation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6271fd0b18af26dd3f1fabd7"
+  },
+  "typeName": "For University",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627231b79ed919b9746ee30e"
+  },
+  "typeName": "Supernatural",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627232389ed919b9746ee311"
+  },
+  "typeName": "Manga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62726a509ed919b9746eef2d"
+  },
+  "typeName": "Psychology",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62726f109ed919b9746eefdb"
+  },
+  "typeName": "Music",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627270cd9ed919b9746eefdd"
+  },
+  "typeName": "Learn Language",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627271aa9ed919b9746eefe3"
+  },
+  "typeName": "Bilingual",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f5b89293184cca7a19ac7"
+  },
+  "typeName": "Mystery",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f5bf4293184cca7a19ac9"
+  },
+  "typeName": "Detective",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f5ccd293184cca7a19acb"
+  },
+  "typeName": "Marketing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f62fc293184cca7a19ad2"
+  },
+  "typeName": "Business",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f6ce1293184cca7a19b20"
+  },
+  "typeName": "Other",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f6d1f293184cca7a19b27"
+  },
+  "typeName": "Food Recipe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62908b65e7021e4ec64f28cf"
+  },
+  "typeName": "Action",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62908d01e7021e4ec64f28fb"
+  },
+  "typeName": "Dhamma",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62908f9608d437ad5cf05b2f"
+  },
+  "typeName": "Programming",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62909952e7021e4ec64f2a23"
+  },
+  "typeName": "Travel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290c6a5e7021e4ec64f2c9f"
+  },
+  "typeName": "Creative",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6290d8fbca3902623a984c20"
+  },
+  "typeName": "Lifestyle",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62919b88ca3902623a984db6"
+  },
+  "typeName": "Computer",
+  "__v": 0
+}]

@@ -1,0 +1,37 @@
+version: '3'
+services:
+ sslReverseProxy:
+    container_name: sslReverseProxy
+    image: nginx
+    ports:
+         - "80:80"
+         - "443:443"
+    volumes:
+         - ./http_doc:/var/www/http_doc
+         - ./certbot/conf:/etc/letsencrypt
+         - ./certbot/www:/var/www/certbot
+         - ./default/default.conf:/etc/nginx/conf.d/default.conf
+    restart: always
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"  
+    networks:
+       my_network:
+          ipv4_address: 172.22.0.10
+
+ certbot:
+    container_name: certbot
+    image: certbot/certbot
+    volumes:
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+    restart: unless-stopped
+    entrypoint: /bin/sh -c "trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;"
+    depends_on:
+      - sslReverseProxy
+
+
+networks:
+  default:
+    external:
+       name: my_network
+  my_network:
+    external: true

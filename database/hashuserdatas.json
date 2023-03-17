@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63579f7eb832b72d209c9e70"
+  },
+  "userId": {
+    "$oid": "63579efdb832b72d209c9d74"
+  },
+  "hashType": "verifyMail",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63579f99b832b72d209c9e75"
+  },
+  "userId": {
+    "$oid": "63579f0bb832b72d209c9dc0"
+  },
+  "hashType": "verifyMail",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63579fb9b832b72d209c9e7e"
+  },
+  "userId": {
+    "$oid": "63579f0bb832b72d209c9dc0"
+  },
+  "hashType": "verifyMail",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357a37b1732b060d6b9dd0a"
+  },
+  "userId": {
+    "$oid": "63579efdb832b72d209c9d74"
+  },
+  "hashType": "verifyMail",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357a4a81732b060d6b9de99"
+  },
+  "userId": {
+    "$oid": "63579efdb832b72d209c9d74"
+  },
+  "hashType": "forgotPassword",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a5681d7206a3670c85eb9"
+  },
+  "userId": {
+    "$oid": "635a5679d7206a3670c85e92"
+  },
+  "hashType": "verifyMail",
+  "__v": 0
+}]

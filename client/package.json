@@ -1,0 +1,43 @@
+{
+  "name": "sharemybookclient",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "local": "cross-env NODE_ENV=local next dev",
+    "dev": "cross-env NODE_ENV=development next dev",
+    "build": "cross-env NODE_ENV=production next build",
+    "start": "cross-env NODE_ENV=production next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@reduxjs/toolkit": "^1.8.1",
+    "axios": "^0.27.2",
+    "cross-env": "^7.0.3",
+    "jwt-decode": "^3.1.2",
+    "next": "12.1.1",
+    "react": "17.0.2",
+    "react-circular-progressbar": "^2.0.4",
+    "react-dom": "17.0.2",
+    "react-dropzone": "^12.0.5",
+    "react-hot-toast": "^2.2.0",
+    "react-query": "^3.39.0",
+    "react-redux": "^8.0.1",
+    "react-spring": "^9.4.4",
+    "redux": "^4.2.0",
+    "sharp": "^0.30.4",
+    "socket.io-client": "^4.5.3",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.1.4",
+    "universal-cookie": "^4.0.4"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.6",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.1"
+  }
+}

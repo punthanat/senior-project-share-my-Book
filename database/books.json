@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "6357a84e1732b060d6b9e11c"
+  },
+  "status": "unavailable",
+  "currentHolder": {
+    "$oid": "6357a8381732b060d6b9e08b"
+  },
+  "bookShelf": {
+    "$oid": "635798a60aaae472911cca10"
+  },
+  "bookHistorys": [
+    {
+      "$oid": "6357a84e1732b060d6b9e11d"
+    },
+    {
+      "$oid": "6357a9c183163f3b162a9a41"
+    },
+    {
+      "$oid": "6357aa8a83163f3b162a9f32"
+    },
+    {
+      "$oid": "6357ab8f83163f3b162aa177"
+    },
+    {
+      "$oid": "6357ab8f83163f3b162aa184"
+    },
+    {
+      "$oid": "6357aca3753789519534ac53"
+    }
+  ],
+  "__v": 1,
+  "readyToSendTime": {
+    "$date": {
+      "$numberLong": "1666690211676"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6357aa0183163f3b162a9c07"
+  },
+  "status": "available",
+  "currentHolder": {
+    "$oid": "63579ef2b832b72d209c9d16"
+  },
+  "bookShelf": {
+    "$oid": "631d9a6b8064d283e1c24dc6"
+  },
+  "bookHistorys": [
+    {
+      "$oid": "6357aa0183163f3b162a9c08"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357af90458b9f4c1360c336"
+  },
+  "status": "holding",
+  "currentHolder": {
+    "$oid": "63579ef2b832b72d209c9d16"
+  },
+  "bookShelf": {
+    "$oid": "635798a60aaae472911cca10"
+  },
+  "bookHistorys": [
+    {
+      "$oid": "6357af90458b9f4c1360c337"
+    },
+    {
+      "$oid": "6357b2d0d3eb1651c8ede456"
+    },
+    {
+      "$oid": "6357b30ad3eb1651c8ede5f2"
+    },
+    {
+      "$oid": "6357b42dd3eb1651c8ede98a"
+    },
+    {
+      "$oid": "6357b49fd3eb1651c8edebeb"
+    },
+    {
+      "$oid": "6357b515d3eb1651c8edeeb9"
+    }
+  ],
+  "__v": 0,
+  "readyToSendTime": {
+    "$date": {
+      "$numberLong": "1666692373566"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "635a5345d7206a3670c85996"
+  },
+  "status": "sending",
+  "currentHolder": {
+    "$oid": "6357af27458b9f4c1360c1ff"
+  },
+  "bookShelf": {
+    "$oid": "631d996e8064d283e1c24b5d"
+  },
+  "bookHistorys": [
+    {
+      "$oid": "635a5345d7206a3670c85997"
+    },
+    {
+      "$oid": "635a588ad7206a3670c861b7"
+    },
+    {
+      "$oid": "635b52668cced08248161e32"
+    },
+    {
+      "$oid": "635b52668cced08248161e3f"
+    }
+  ],
+  "__v": 1,
+  "readyToSendTime": {
+    "$date": {
+      "$numberLong": "1666929254671"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "635a5380d7206a3670c85a1f"
+  },
+  "status": "holding",
+  "currentHolder": {
+    "$oid": "635a528ad7206a3670c8589f"
+  },
+  "bookShelf": {
+    "$oid": "631da22b8064d283e1c25f3f"
+  },
+  "bookHistorys": [
+    {
+      "$oid": "635a5380d7206a3670c85a20"
+    },
+    {
+      "$oid": "635a538fd7206a3670c85ae8"
+    },
+    {
+      "$oid": "635a59fbd7206a3670c86347"
+    },
+    {
+      "$oid": "635a64f8200a5f7bd2155b10"
+    },
+    {
+      "$oid": "635a6516200a5f7bd2155c2d"
+    },
+    {
+      "$oid": "635a6597200a5f7bd2155e6d"
+    },
+    {
+      "$oid": "635a6611200a5f7bd21561d6"
+    },
+    {
+      "$oid": "635a664e200a5f7bd2156323"
+    },
+    {
+      "$oid": "635a666b200a5f7bd21564e5"
+    },
+    {
+      "$oid": "635b52b08cced08248161ec3"
+    },
+    {
+      "$oid": "635b53608cced08248162022"
+    }
+  ],
+  "__v": 1,
+  "readyToSendTime": {
+    "$date": {
+      "$numberLong": "1666929504033"
+    }
+  }
+}]

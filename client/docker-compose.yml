@@ -1,0 +1,16 @@
+version: "3"
+services:
+  frontend:
+    image: ghcr.io/3rdyearproj-mark-ohm-banjo/int365-client:dev
+    container_name: frontend
+    expose:
+      - "80"
+    networks:
+       my_network:
+          ipv4_address: 172.22.0.3
+networks:
+  default:
+    external:
+       name: my_network
+  my_network:
+    external: true

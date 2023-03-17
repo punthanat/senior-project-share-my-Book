@@ -1,0 +1,206 @@
+[{
+  "_id": {
+    "$oid": "63579ef2b832b72d209c9d16"
+  },
+  "username": "Thanasit 02",
+  "password": "$2b$10$ePyW0ZA2a9A7OVCPVvcZGOeFRvpzZFNEO5NgmEe5QD0M/kOjDowIO",
+  "email": "kuuga.fap@gmail.com",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [
+    {
+      "$oid": "6357a84e1732b060d6b9e121"
+    },
+    {
+      "$oid": "6357aa0183163f3b162a9c0c"
+    },
+    {
+      "$oid": "6357af90458b9f4c1360c33b"
+    }
+  ],
+  "currentBookAction": [
+    {
+      "$oid": "6357b42dd3eb1651c8ede988"
+    }
+  ],
+  "__v": 0,
+  "address": "test",
+  "firstname": "t",
+  "lastname": "t",
+  "tel": "5555555555"
+},{
+  "_id": {
+    "$oid": "63579efdb832b72d209c9d74"
+  },
+  "password": "$2b$10$iMuVFOs.3HyBrVl6b3SGt./tQxI4Z1L5TfX9BCE4kECW4BshYDtCC",
+  "email": "mark_kuuga@hotmail.com",
+  "role": "admin",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "1358/55",
+  "firstname": "tha",
+  "lastname": "ekk",
+  "tel": "0869999999"
+},{
+  "_id": {
+    "$oid": "63579f0bb832b72d209c9dc0"
+  },
+  "password": "$2b$10$494xI3V9XCOdEW.7V5K5j.lIYw4CUq1sSjxWMQ5lFxH3b4ZeSNj6u",
+  "email": "thasuohm4@gmail.com",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [
+    {
+      "$oid": "635a5345d7206a3670c8599b"
+    },
+    {
+      "$oid": "635a5380d7206a3670c85a24"
+    }
+  ],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "1/129 facebook USA 20000",
+  "firstname": "Mark",
+  "lastname": "zuckerburg",
+  "tel": "0874651321"
+},{
+  "_id": {
+    "$oid": "6357a8381732b060d6b9e08b"
+  },
+  "username": "PUNTHANAT ULARNWIRIYANONT",
+  "password": "$2b$10$egIuEdxTnJ7cXytrAKj/zOJ2IRUQ5rzPzbyAz8e2ElUvUE2QJ.d3K",
+  "email": "punthanat.banjo@mail.kmutt.ac.th",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "หอพักมจธชาย",
+  "firstname": "ปุณธนัช",
+  "lastname": "อุฬารวิริยานนท์",
+  "tel": "0925109953"
+},{
+  "_id": {
+    "$oid": "6357a98f83163f3b162a9969"
+  },
+  "username": "Draw Easy Animations DEA",
+  "password": "$2b$10$iLHPkMww9JDuvWnAkNn1f.Q52CR4zk0u/HkjGE.KWOq4/uL8namMy",
+  "email": "punthanat07@gmail.com",
+  "role": "admin",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357af27458b9f4c1360c1ff"
+  },
+  "password": "$2b$10$ggfoKoKUP2IMfTxC0Fsfj.flApKlg7B6bnppcv8j2NfWrenaNY74.",
+  "email": "test@test.com",
+  "role": "admin",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "ศูนย์กลางรวมหนังสือ share my book กรุงเทพ",
+  "firstname": "admin",
+  "lastname": "share-my-book",
+  "tel": "0123456789"
+},{
+  "_id": {
+    "$oid": "6357b2b8d3eb1651c8ede391"
+  },
+  "username": "thanasit Xsolagul",
+  "password": "$2b$10$uCQFrsQjDTvB9gRxz2zFmuCNjKAdHJLenXU2B.0FEzDMJFh4jXDMy",
+  "email": "agito.fap@gmail.com",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "t2",
+  "firstname": "t2",
+  "lastname": "t2",
+  "tel": "2222222222"
+},{
+  "_id": {
+    "$oid": "635a528ad7206a3670c8589f"
+  },
+  "username": "Thanapat Suwannaard",
+  "password": "$2b$10$bQYE/hiVWeTSbbCAFSfJx.w0H8.cYXVz1mm/6FNcuZLRz6yvIRlIa",
+  "email": "thasuohm5@gmail.com",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [
+    {
+      "$oid": "635a588ad7206a3670c861b5"
+    },
+    {
+      "$oid": "635b52b08cced08248161ec1"
+    }
+  ],
+  "__v": 0,
+  "address": "48/48 some village rama 2 10150",
+  "firstname": "Joshua",
+  "lastname": "Wong",
+  "tel": "0118895462"
+},{
+  "_id": {
+    "$oid": "635a5679d7206a3670c85e92"
+  },
+  "password": "$2b$10$QXWqQ3BuL5VFU8M7cVVP2.90CSgIYBtjhDE9htWn8/tY42y/cFOiy",
+  "email": "thasuohm6@gmail.com",
+  "role": "user",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0,
+  "address": "test",
+  "firstname": "test",
+  "lastname": "test",
+  "tel": "0123456789"
+},{
+  "_id": {
+    "$oid": "635a642a200a5f7bd215580e"
+  },
+  "firstname": "admin",
+  "lastname": "share-my-book",
+  "password": "$2b$10$4G5cksU3M7PIjkiUozzt8eN3eqOhEruzKPQWGz3K8B8eyciTOnTV2",
+  "email": "test2@test.com",
+  "address": "ศูนย์กลางรวมหนังสือ share my book กรุงเทพ",
+  "tel": "0123456789",
+  "role": "admin",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a671e200a5f7bd2156752"
+  },
+  "firstname": "admin",
+  "lastname": "share-my-book",
+  "password": "$2b$10$fSyPHdu1KLmRhaOFrUnbvu6PVV3eCVz.EMJq7H5pdgY9enSjywlha",
+  "email": "punthanat99@gmail.com",
+  "address": "ศูนย์กลางรวมหนังสือ share my book กรุงเทพ",
+  "tel": "0123456789",
+  "role": "admin",
+  "status": "active",
+  "verifyEmail": true,
+  "donationHistory": [],
+  "currentBookAction": [],
+  "__v": 0
+}]
